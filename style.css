@@ -10,6 +10,7 @@
     --weight-s: 400;
     /* Big Shoulders Display */
     --weight-m: 700;
+    --background-color: #f2f2f2;
 }
 
 /* font-family: 'Big Shoulders Display', cursive;
@@ -28,6 +29,7 @@ body{
     height: 100vh;
     font-size: var(--body-size);
     font-weight: var(--weight-s);
+    background-color: var(--background-color);
 }
 
 button{
