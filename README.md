@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/thihnezzy/3-column-preview-card)
-- Live Site URL: [Add live site URL here](https://3-column-preview-card-ivo4wjzfj-thihnezzy.vercel.app/)
+- Solution URL: [github](https://github.com/thihnezzy/3-column-preview-card)
+- Live Site URL: [vercel app](https://3-column-preview-card-ivo4wjzfj-thihnezzy.vercel.app/)
 
 ### Built with
 
